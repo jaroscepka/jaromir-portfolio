@@ -5,9 +5,9 @@ import { useState } from "react";
 const projects = [
   {
     id: 1,
-    title: "Camper Van Rental Platform",
+    title: "Caravan Rental Platform",
     description:
-      "Building a Next.js platform for camper van rentals across Europe. Focusing on user experience and operational simplicity.",
+      "Building a Next.js platform for caravan rentals across Europe. Focusing on user experience and operational simplicity.",
     status: "In Progress",
   },
   {
